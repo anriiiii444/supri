@@ -1,3 +1,6 @@
+* {
+    margin: 0;
+    padding: 0;
 }
 html {
     .bebas-neue-regular {
@@ -13,7 +16,7 @@ html {
     margin: 0 auto;
     background:rgb(9, 9, 9) ;
     height: 150vh; 
-    background-image: url(".jpg");
+    background-image: url("arf.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
